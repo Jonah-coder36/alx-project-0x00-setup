@@ -41,6 +41,7 @@ export default function LandingPage() {
           <Button title="Large SM" styles="text-lg rounded-sm" />
           <Button title="Large MD" styles="text-lg rounded-md" />
           <Button title="Large FULL" styles="text-lg rounded-full" />
+          <Button title="Large LG" styles="text-lg rounded-lg" />
         </div>
       </div>
     </main>
